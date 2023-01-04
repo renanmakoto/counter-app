@@ -4,3 +4,6 @@ A counter app I developed to practice my skills with React.js, the use of State 
 
 This app was developed with React.js. No other libraries or modules were used. 
 
+You may check the app by clicking on the link below:
+
+https://renanmakoto-counterapp.netlify.app/
