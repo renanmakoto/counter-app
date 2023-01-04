@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import { CounterContext } from '../CounterContext'
 
 function Header(props) {
-    const [counting, setCounting] = useContext(CounterContext)
+    const [counting] = useContext(CounterContext)
     return (
     <div className='headerDiv'>
         <h3>Counter</h3>
