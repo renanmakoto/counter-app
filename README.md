@@ -1,12 +1,12 @@
-<h1>Counter App</h1>
+<h1 align="center">Counter App</h1>
 
-<p>A counter app I developed to practice my skills with React.js, the use of State with a Context API. Not only did I develop it for practising, but it could also help me during my activities that require a bit of repetition.</p>
+<p align="center">A counter app I developed to practice my skills with React.js, the use of State with a Context API. Not only did I develop it for practising, but it could also help me during my activities that require a bit of repetition.</p>
 
-<p>This app was developed with React.js. No other libraries or modules were used.</p>
+<p align="center">This app was developed with React.js. No other libraries or modules were used.</p>
 
-<p>You may check the app by clicking on the link below:</p>
+<p align="center">You may check the app by clicking on the link below:</p>
 
-<p>https://renanmakoto-counterapp.netlify.app/</p>
+<p align="center">https://renanmakoto-counterapp.netlify.app/</p>
 
 
 
